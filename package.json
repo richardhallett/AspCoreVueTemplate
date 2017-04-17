@@ -1,0 +1,25 @@
+{
+  "name": "WebApplicationBasic",
+  "version": "0.0.0",
+  "devDependencies": {
+    "aspnet-webpack": "^1.0.27",
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^2.0.0-rc",
+    "file-loader": "^0.9.0",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.1",
+    "url-loader": "^0.5.7",
+    "vue": "^2.2.2",
+    "vue-loader": "^11.1.4",
+    "vue-router": "^2.3.0",
+    "vue-template-compiler": "^2.2.2",
+    "vue-typescript-import-dts": "^3.0.1",
+    "webpack": "^2.2.0",
+    "webpack-hot-middleware": "^2.12.2"
+  },
+  "dependencies": {
+    "axios": "^0.16.1",
+    "vue-class-component": "^5.0.1"
+  }
+}
