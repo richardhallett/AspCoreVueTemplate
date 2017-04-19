@@ -25,7 +25,10 @@ Built to be used with: https://github.com/dotnet/templating
 
 # Usage 1 - dotnet templating
 1. git clone
-2. 
+2. dotnet new --install /Path/To/AspCoreVueTemplate
+3. mkdir MyTestProject
+4. dotnet restore
+5. dotnet run
 
 # Usage 2 - Git clone it
 
