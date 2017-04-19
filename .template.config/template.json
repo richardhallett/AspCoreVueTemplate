@@ -1,0 +1,12 @@
+{
+    "author": "Richard Hallett",
+    "classifications": [ "Web", "Vue", "TypeScript" ],
+    "name": "ASP.Net Core Basic Vue SPA",
+    "identity": "Rph.Vue",
+    "shortName": "vue",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "AspCoreVueTemplate",
+    "preferNameDirectory" : "true"
+}

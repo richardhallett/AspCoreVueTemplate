@@ -1,6 +1,7 @@
 # Overview
 A simple asp.net core based vue template with typescript.
 Modified from: https://github.com/aspnet/JavaScriptServices
+Built to be used with: https://github.com/dotnet/templating
 
 ## Main differences:
 * Remove the bootstrap/jquery dependencies.
@@ -22,7 +23,11 @@ Modified from: https://github.com/aspnet/JavaScriptServices
 * Node.js
 * .NET core
 
-# Usage
+# Usage 1 - dotnet templating
+1. git clone
+2. 
+
+# Usage 2 - Git clone it
 
 1. git clone
 2. npm install
