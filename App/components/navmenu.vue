@@ -1,19 +1,19 @@
 <template>
     <div class="main-nav">
-        <ul class="nav navbar-nav">
+        <ul>
             <li>
                 <router-link to="/" :exact="true">
-                    <span class="glyphicon glyphicon-home"></span> Home
+                    <span></span> Home
                 </router-link>
             </li>
             <li>
                 <router-link to="/counter">
-                    <span class="glyphicon glyphicon-education"></span> Counter
+                    <span></span> Counter
                 </router-link>
             </li>
             <li>
                 <router-link to="/fetchdata">
-                    <span class="glyphicon glyphicon-th-list"></span> Fetch data
+                    <span></span> Fetch data
                 </router-link>
             </li>
         </ul>
