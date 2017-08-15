@@ -27,6 +27,8 @@ Built to be used with: https://github.com/dotnet/templating
 1. git clone
 2. dotnet new --install /Path/To/AspCoreVueTemplate
 3. mkdir MyTestProject
+4. cd MyTestProject
+5. npm install
 4. dotnet restore
 5. dotnet run
 
