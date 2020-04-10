@@ -1,3 +1,7 @@
+Update 10-04-2020 - No longer maintained. 
+
+---
+
 # Overview
 A simple asp.net core based vue template with typescript.
 Modified from: https://github.com/aspnet/JavaScriptServices
